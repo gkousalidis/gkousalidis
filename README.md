@@ -12,7 +12,7 @@
  
  🔭 I am currently advancing through Scrimba's **Fullstack Developer** Career Path.
  
- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React, Responsive Design, REST APIs, DevTools, Web Architecture, Deployment**.
+ 🌱 I’m currently learning **HTML5, CSS3, JavaScript, Node.js, Express.js, React, Typescript, Next.js Responsive Design, REST APIs, DevTools, Web Architecture, Deployment**.
  
  </div>
 
