@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Georgios+Kousalidis!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Greece 🇬🇷</h3>
+<h3 align="center">A passionate Fullstack Developer from Greece 🇬🇷</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 **Fullstack Developer** focused on building web applications from the ground up, handling everything. From creating Interactive React front-ends to building APIs with Node.js and Express. I know how to connect the pieces together and get it all deployed and working smoothly. Basically, turning any idea into a live working product.
+ 🔭 **Focused on** building web applications from the ground up, handling everything. From creating Interactive React front-ends to building APIs with Node.js and Express. I know how to connect the pieces together and get it all deployed and working smoothly. Basically, turning any idea into a live working product.
  
- 🌱 Technology Stack: **HTML5, CSS3, JavaScript, Typescript, React, Next.js, Node.js, Express.js, REST APIs**
+ 🌱 **Technology Stack:** HTML5, CSS3, JavaScript, Typescript, React, Next.js, Node.js, Express.js, REST APIs
  
  </div>
 
