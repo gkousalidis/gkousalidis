@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I am currently advancing through Scrimba's **Fullstack Developer** Career Path.
+ 🔭 **Fullstack Developer** focused on building web applications from the ground up, handling everything. From creating Interactive React front-ends to building APIs with Node.js and Express. I know how to connect the pieces together and get it all deployed and working smoothly. Basically, turning any idea into a live working product.
  
- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, Node.js, Express.js, React, Typescript, Next.js Responsive Design, REST APIs, DevTools, Web Architecture, Deployment**.
+ 🌱 Technology Stack: **HTML5, CSS3, JavaScript, Typescript, React, Next.js, Node.js, Express.js, REST APIs**
  
  </div>
 
